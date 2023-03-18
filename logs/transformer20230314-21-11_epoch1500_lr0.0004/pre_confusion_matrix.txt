@@ -1,0 +1,13 @@
+data/train_chuli.csv
+
+train
+tp          fp          tn          fn          ppr          npr 
+139.0000   17.0000   362.0000   105.0000   0.8910   0.7752
+accuracy  precision   recall  F1  AUC  MCC
+0.8042   0.8910   0.5697  0.6950   0.8254   0.5913
+
+test
+tp          fp          tn          fn          ppr          npr
+67.0000   6.0000   164.0000   31.0000   0.9178   0.8410
+accuracy  precision   recall  F1  AUC  MCC
+0.8619   0.9178   0.6837  0.7836   0.8574   0.7014
